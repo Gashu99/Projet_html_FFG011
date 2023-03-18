@@ -1,0 +1,29 @@
+
+.div1{
+	height: 100px;
+	width: 20px;
+}	
+button{
+	border-color: violet;
+	background-color: violet;
+}
+#head1{
+	margin-left: 250px;
+	color: white;
+	text-align: center;
+	border: solid;
+	border-color: darkblue;
+	background-color: darkblue;
+	top: 100px;
+}
+#signup{
+	text-ali7g: center;
+	margin-left: 575px;
+	margin-right: 575px;
+	background-color: violet;
+}
+
+
+.contenu{
+	margin-left: 250px;
+}
