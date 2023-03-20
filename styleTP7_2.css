@@ -1,20 +1,28 @@
-
+img{	border-radius: 50%;
+	width: 100px;
+	height:100px;
+}
 .div1{
-	height: 100px;
+	height: 150px;
 	width: 20px;
+	margin-bottom: 10px;
+
 }	
 button{
 	border-color: violet;
 	background-color: violet;
 }
-#head1{
-	margin-left: 250px;
+.head1{
+	margin-left: 20px;
 	color: white;
 	text-align: center;
 	border: solid;
 	border-color: darkblue;
 	background-color: darkblue;
-	top: 100px;
+	position: fixed;
+	top: 0px;
+	width: 1102px;
+	left: 130px;
 }
 #signup{
 	text-ali7g: center;
@@ -25,5 +33,26 @@ button{
 
 
 .contenu{
-	margin-left: 250px;
+	margin-left: 400px;
+	margin-top: 227px;
+	text-align: justify;
+	width: 500px;
+}
+body{
+	display: flex;
+	margin:auto;
+}
+
+.div2{
+	
+margin-left: 0px;
+}
+
+aside{
+	top: 0px;
+	height: 900px;
+	width: 150px;
+	color: white;
+	position: fixed;
+	background-color: darkblue;
 }
