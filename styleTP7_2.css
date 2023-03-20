@@ -46,6 +46,7 @@ body{
 .div2{
 	
 margin-left: 0px;
+
 }
 
 aside{
@@ -55,4 +56,25 @@ aside{
 	color: white;
 	position: fixed;
 	background-color: darkblue;
+}
+span{
+	display: inline-block;
+	background-color: darkblue;
+	width: 10px;
+	line-height: 6px;
+	color: white;
+}
+
+.global{
+	margin-left: 12px;
+	background-color: darkblue;
+	text-align: justify;
+}
+.petitspan{
+	
+background-color: darkblue;
+	
+margin: auto;
+	
+display: inline-block;
 }
